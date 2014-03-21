@@ -1,8 +1,7 @@
-
 You should have Java 1.6+ and Maven 2.x+ installed.
 
-Installation
-------------
+
+Installation process------
 1. Build the module to produce the .omod file.
 2. Use the OpenMRS Administration > Manage Modules screen to upload and install the .omod file.
 
